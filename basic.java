@@ -24,7 +24,7 @@ class basic
        Scanner sc = new Scanner(System.in);
 
        System.out.println("Enter your num:"); 
-       int num = sc.nextInt();
+       int num = sc.nextInt();  
 
        System.out.print(num);
        
