@@ -10,9 +10,9 @@ class basic
         // System.out.print(name);
 
 
-        // boolean flag = false;                             //boolean  datatype
-        // byte b = 60;                                      //byte  datatype
-        // short s = 1000;                                   //short  datatype
+         boolean flag = false;                             //boolean  datatype
+         byte b = 60;                                      //byte  datatype
+         short s = 1000;                                   //short  datatype
         // int a = 1;                                        //int   datatype
         // long m =  23729083205;                            //long  datatype
         // char A = 'p';                                     //character datatype
