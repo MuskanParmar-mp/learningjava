@@ -23,10 +23,10 @@ class basic
        //input
        Scanner sc = new Scanner(System.in);
 
-       System.out.println("Enter your num:"); 
-       int num = sc.nextInt();  
+       System.out.println("Enter a num:"); 
+       int number = sc.nextInt();  
 
-       System.out.print(num);
+       System.out.print(number);
        
     }
 }
